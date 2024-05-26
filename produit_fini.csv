@@ -1,0 +1,72 @@
+﻿year;agency;category;spent;spent_total;count;country_id;strcountyid;loc_time_id;id;ag;gdp;tax;countryname;countrycode
+2009;USAID;Democracy, Human Rights, And Governance;0,150;0,150;1;Afghanistan;Afghanistan;12009;Afghanistan2009;30,206;21,021;8,435;Afghanistan;AFG
+2009;USAID;Program Management;0,124;0,124;1;Afghanistan;Afghanistan;12009;Afghanistan2009;30,206;21,021;8,435;Afghanistan;AFG
+2009;USAID;Economic Development;0,845;0,845;1;Afghanistan;Afghanistan;12009;Afghanistan2009;30,206;21,021;8,435;Afghanistan;AFG
+2009;USAID;Health;0,046;0,046;1;Afghanistan;Afghanistan;12009;Afghanistan2009;30,206;21,021;8,435;Afghanistan;AFG
+2009;USAID;Humanitarian Assistance;0,050;0,050;1;Afghanistan;Afghanistan;12009;Afghanistan2009;30,206;21,021;8,435;Afghanistan;AFG
+2010;USAID;Economic Development;1,460;5,839;4;Afghanistan;Afghanistan;12010;Afghanistan2010;27,092;8,433;9,124;Afghanistan;AFG
+2010;USAID;Democracy, Human Rights, And Governance;0,000;0,000;1;Afghanistan;Afghanistan;12010;Afghanistan2010;27,092;8,433;9,124;Afghanistan;AFG
+2011;USAID;Health;4,691;9,382;2;Afghanistan;Afghanistan;12011;Afghanistan2011;24,507;6,114;8,855;Afghanistan;AFG
+2011;USAID;Democracy, Human Rights, And Governance;4,133;4,133;1;Afghanistan;Afghanistan;12011;Afghanistan2011;24,507;6,114;8,855;Afghanistan;AFG
+2011;USAID;Program Management;0,289;0,289;1;Afghanistan;Afghanistan;12011;Afghanistan2011;24,507;6,114;8,855;Afghanistan;AFG
+2012;USAID;Peace And Security;24,695;24,695;1;Afghanistan;Afghanistan;12012;Afghanistan2012;24,603;14,435;7,472;Afghanistan;AFG
+2012;USAID;Humanitarian Assistance;6,348;6,348;1;Afghanistan;Afghanistan;12012;Afghanistan2012;24,603;14,435;7,472;Afghanistan;AFG
+2012;USAID;Health;0,866;1,731;2;Afghanistan;Afghanistan;12012;Afghanistan2012;24,603;14,435;7,472;Afghanistan;AFG
+2013;USAID;Education And Social Services;1,442;1,442;1;Afghanistan;Afghanistan;12013;Afghanistan2013;23,891;1,959;;Afghanistan;AFG
+2013;USAID;Environment;0,058;0,058;1;Afghanistan;Afghanistan;12013;Afghanistan2013;23,891;1,959;;Afghanistan;AFG
+2013;USAID;Peace And Security;-0,002;-0,002;1;Afghanistan;Afghanistan;12013;Afghanistan2013;23,891;1,959;;Afghanistan;AFG
+2013;USAID;Program Management;0,108;0,108;1;Afghanistan;Afghanistan;12013;Afghanistan2013;23,891;1,959;;Afghanistan;AFG
+2009;USAID;Humanitarian Assistance;0,170;0,511;3;Kenya;Kenya;22009;Kenya2009;26,144;3,307;15,545;Kenya;KEN
+2009;USAID;Health;2,040;4,080;2;Kenya;Kenya;22009;Kenya2009;26,144;3,307;15,545;Kenya;KEN
+2010;USAID;Democracy, Human Rights, And Governance;0,477;0,955;2;Kenya;Kenya;22010;Kenya2010;27,831;8,402;15,733;Kenya;KEN
+2010;USAID;Health;4,380;13,139;3;Kenya;Kenya;22010;Kenya2010;27,831;8,402;15,733;Kenya;KEN
+2010;USAID;Peace And Security;0,602;0,602;1;Kenya;Kenya;22010;Kenya2010;27,831;8,402;15,733;Kenya;KEN
+2010;USAID;Environment;0,160;0,160;1;Kenya;Kenya;22010;Kenya2010;27,831;8,402;15,733;Kenya;KEN
+2010;USAID;Program Management;0,048;0,048;1;Kenya;Kenya;22010;Kenya2010;27,831;8,402;15,733;Kenya;KEN
+2010;USAID;Education And Social Services;0,008;0,008;1;Kenya;Kenya;22010;Kenya2010;27,831;8,402;15,733;Kenya;KEN
+2011;USAID;Program Management;0,356;0,711;2;Kenya;Kenya;22011;Kenya2011;29,274;6,112;15,948;Kenya;KEN
+2011;USAID;Peace And Security;1,261;1,261;1;Kenya;Kenya;22011;Kenya2011;29,274;6,112;15,948;Kenya;KEN
+2012;USAID;Education And Social Services;2,915;2,915;1;Kenya;Kenya;22012;Kenya2012;29,089;4,555;15,878;Kenya;KEN
+2012;USAID;Democracy, Human Rights, And Governance;0,004;0,004;1;Kenya;Kenya;22012;Kenya2012;29,089;4,555;15,878;Kenya;KEN
+2012;USAID;Humanitarian Assistance;8,606;17,212;2;Kenya;Kenya;22012;Kenya2012;29,089;4,555;15,878;Kenya;KEN
+2012;USAID;Health;0,673;2,018;3;Kenya;Kenya;22012;Kenya2012;29,089;4,555;15,878;Kenya;KEN
+2012;USAID;Environment;1,802;1,802;1;Kenya;Kenya;22012;Kenya2012;29,089;4,555;15,878;Kenya;KEN
+2013;USAID;Program Management;0,142;0,283;2;Kenya;Kenya;22013;Kenya2013;29,417;5,687;;Kenya;KEN
+2013;USAID;Health;0,017;0,017;1;Kenya;Kenya;22013;Kenya2013;29,417;5,687;;Kenya;KEN
+2013;USAID;Education And Social Services;0,594;0,594;1;Kenya;Kenya;22013;Kenya2013;29,417;5,687;;Kenya;KEN
+2014;USAID;Education And Social Services;0,593;0,593;1;Kenya;Kenya;22014;Kenya2014;30,271;5,328;;Kenya;KEN
+2009;USAID;Economic Development;0,144;0,289;2;Pakistan;Pakistan;32009;Pakistan2009;23,908;2,832;8,943;Pakistan;PAK
+2009;USAID;Education And Social Services;2,335;2,335;1;Pakistan;Pakistan;32009;Pakistan2009;23,908;2,832;8,943;Pakistan;PAK
+2010;USAID;Education And Social Services;0,105;0,105;1;Pakistan;Pakistan;32010;Pakistan2010;24,292;1,607;9,975;Pakistan;PAK
+2010;USAID;Program Management;0,055;0,055;1;Pakistan;Pakistan;32010;Pakistan2010;24,292;1,607;9,975;Pakistan;PAK
+2010;USAID;Economic Development;3,134;3,134;1;Pakistan;Pakistan;32010;Pakistan2010;24,292;1,607;9,975;Pakistan;PAK
+2010;USAID;Humanitarian Assistance;14,098;28,196;2;Pakistan;Pakistan;32010;Pakistan2010;24,292;1,607;9,975;Pakistan;PAK
+2011;USAID;Health;0,161;0,161;1;Pakistan;Pakistan;32011;Pakistan2011;26,025;2,748;9,189;Pakistan;PAK
+2011;USAID;Economic Development;3,714;11,142;3;Pakistan;Pakistan;32011;Pakistan2011;26,025;2,748;9,189;Pakistan;PAK
+2011;USAID;Democracy, Human Rights, And Governance;4,927;4,927;1;Pakistan;Pakistan;32011;Pakistan2011;26,025;2,748;9,189;Pakistan;PAK
+2011;USAID;Program Management;0,294;0,294;1;Pakistan;Pakistan;32011;Pakistan2011;26,025;2,748;9,189;Pakistan;PAK
+2011;USAID;Education And Social Services;12,222;12,222;1;Pakistan;Pakistan;32011;Pakistan2011;26,025;2,748;9,189;Pakistan;PAK
+2012;USAID;Program Management;0,044;0,044;1;Pakistan;Pakistan;32012;Pakistan2012;24,549;3,507;10,099;Pakistan;PAK
+2012;USAID;Economic Development;0,005;0,005;1;Pakistan;Pakistan;32012;Pakistan2012;24,549;3,507;10,099;Pakistan;PAK
+2012;USAID;Humanitarian Assistance;7,959;7,959;1;Pakistan;Pakistan;32012;Pakistan2012;24,549;3,507;10,099;Pakistan;PAK
+2013;USAID;Democracy, Human Rights, And Governance;1,535;1,535;1;Pakistan;Pakistan;32013;Pakistan2013;24,818;4,367;11,187;Pakistan;PAK
+2013;USAID;Economic Development;2,348;2,348;1;Pakistan;Pakistan;32013;Pakistan2013;24,818;4,367;11,187;Pakistan;PAK
+2013;USAID;Health;5,187;5,187;1;Pakistan;Pakistan;32013;Pakistan2013;24,818;4,367;11,187;Pakistan;PAK
+2014;USAID;Program Management;0,066;0,066;1;Pakistan;Pakistan;32014;Pakistan2014;25,034;4,738;;Pakistan;PAK
+2009;USAID;Program Management;0,027;0,027;1;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2009;USAID;Peace And Security;0,230;0,230;1;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2009;USAID;Environment;0,293;0,586;2;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2009;USAID;Health;0,175;0,175;1;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2009;USAID;Humanitarian Assistance;0,185;0,185;1;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2009;USAID;Democracy, Human Rights, And Governance;0,006;0,006;1;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2009;USAID;Education And Social Services;0,177;0,177;1;Senegal;Senegal;42009;Senegal2009;17,276;2,423;17,924;Senegal;SEN
+2010;USAID;Health;0,003;0,003;1;Senegal;Senegal;42010;Senegal2010;17,689;4,179;18,653;Senegal;SEN
+2010;USAID;Democracy, Human Rights, And Governance;0,024;0,024;1;Senegal;Senegal;42010;Senegal2010;17,689;4,179;18,653;Senegal;SEN
+2011;USAID;Program Management;0,026;0,026;1;Senegal;Senegal;42011;Senegal2011;15,651;1,761;18,886;Senegal;SEN
+2011;USAID;Health;0,627;1,253;2;Senegal;Senegal;42011;Senegal2011;15,651;1,761;18,886;Senegal;SEN
+2011;USAID;Education And Social Services;0,003;0,003;1;Senegal;Senegal;42011;Senegal2011;15,651;1,761;18,886;Senegal;SEN
+2011;USAID;Economic Development;0,001;0,001;1;Senegal;Senegal;42011;Senegal2011;15,651;1,761;18,886;Senegal;SEN
+2012;USAID;Health;0,535;0,535;1;Senegal;Senegal;42012;Senegal2012;16,726;4,363;19,182;Senegal;SEN
+2013;USAID;Program Management;0,066;0,066;1;Senegal;Senegal;42013;Senegal2013;15,618;3,622;;Senegal;SEN
+2013;USAID;Education And Social Services;3,731;3,731;1;Senegal;Senegal;42013;Senegal2013;15,618;3,622;;Senegal;SEN
+2013;USAID;Economic Development;0,011;0,011;1;Senegal;Senegal;42013;Senegal2013;15,618;3,622;;Senegal;SEN
